@@ -8,7 +8,8 @@
 - 🧿 I’m a hackathon enjoyer
 - 🍭 I’m pleasant of chocolate!
 
-## *languages and tools*
+# My Stack of technologies
+Front-End:
 ![iOS](https://img.shields.io/badge/-Developing-0C090A?style=for-the-badge&logo=iOS)
 ![Android](https://img.shields.io/badge/-Developing-0C090A?style=for-the-badge&logo=Android&logoColor=12AD2B)
 ![Firebase](https://img.shields.io/badge/-Firebase-0C090A?style=for-the-badge&logo=Firebase&logoColor=FFA500)
