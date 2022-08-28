@@ -10,7 +10,7 @@
 
 ### My Hard Skills
 - <b>Front-End</b>: ReactJS, Typescript, Material UI, SASS
-- <b>I have experience with</b>: PHP (Laravel), C++, Java and Python programming languages
+- <b>I have experience with</b>: C++, Java, PHP (Laravel) and Python programming languages
 
 ### You can reach me:
 - <a href="https://t.me/lagmazavr" target="_blank">by Telegram account</a>
