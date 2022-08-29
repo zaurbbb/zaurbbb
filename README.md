@@ -9,7 +9,7 @@
 - 🍭 I’m pleasant of chocolate!
 
 ### My Hard Skills
-- <b>Front-End</b>: ReactJS, Typescript, Material UI, SASS
+- <b>Front-End</b>: ReactJS, Redux, Typescript, Material UI, SASS
 - <b>I have experience with</b>: C++, Java, PHP (Laravel) and Python programming languages
 
 ### You can reach me:
