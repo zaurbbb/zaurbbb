@@ -1,16 +1,12 @@
 ### Hello everyone👋! My name is Zaur.
-## I am Junior Front-End Developer from Karaganda, Kazakhstan.
+## I am Web-Developer from Karaganda, Kazakhstan.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaurbbb&label=Profile%20views&color=0e75b6&style=flat" alt="zaurbbb" /> </p>
 
-- 🌱 I’m currently learning Javascript and Python programming languages
-- 💻 I’m currently working on social project [99 names of Allah](https://github.com/zaurbbb/99-names-of-Allah)
+- 🌱 I’m currently learning Golang programming languages
+- 💻 I’m currently working on [...]
 - 🧿 I’m a hackathon enjoyer
 - 🍭 I’m pleasant of chocolate!
-
-### My Hard Skills
-- <b>Front-End</b>: ReactJS, Redux, Typescript, Material UI, SASS
-- <b>I have experience with</b>: C++, Java, PHP (Laravel), Golang and Python programming languages
 
 ### You can reach me:
 - <a href="https://t.me/lagmazavr" target="_blank">by Telegram account</a>
