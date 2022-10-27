@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaurbbb&label=Profile%20views&color=0e75b6&style=flat" alt="zaurbbb" /> </p>
 
-- 🌱 I’m currently learning Angular and Golang.
+- 🌱 I’m currently learning Angular.
 - 💻 I’m currently working on [...].
 - 🧿 I’m a hackathon enjoyer.
 - 🍭 I’m pleasant of chocolate!
