@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaurbbb&label=Profile%20views&color=0e75b6&style=flat" alt="zaurbbb" /> </p>
 
 - 🌱 I’m currently learning ReactJS.
-- 💻 I’m currently working on [...].
+- 💻 I’m currently working on [99 names of Allah](https://github.com/zaurbbb/99-names-of-Allah)
 - 🧿 I’m a hackathon enjoyer.
 - 🍭 I’m pleasant of chocolate!
 
