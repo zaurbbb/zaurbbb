@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning Javascript and ReactJS.
 - 💻 I’m currently working on ...
-- 🧿 I’m a hackathon enjoyer.
-- 🍭 I’m pleasant of chocolate!
-
+- 
 ### You can reach me:
 - <a href="https://t.me/lagmazavr" target="_blank">by Telegram account</a>
 - <a href="mailto:zaurberdibekov@mail.ru" target="_blank">by E-Mail (Mail.ru)</a>
