@@ -9,3 +9,6 @@
 ### You can reach me:
 - <a href="https://t.me/lagmazavr" target="_blank">by Telegram account</a>
 - <a href="mailto:zaurberdibekov@mail.ru" target="_blank">by E-Mail (Mail.ru)</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaurbbb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
