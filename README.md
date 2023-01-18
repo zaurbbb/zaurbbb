@@ -13,6 +13,5 @@
 [![image](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/zaurbbb/)
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaur-berdibekov-b0b921235/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaurbbb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zaurbbb&theme=light&background=000000&date_format=M%20j%5B%2C%20Y%5D" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zaurbbb&theme=light&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" />
 
