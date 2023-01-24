@@ -3,8 +3,8 @@
 
 <p> <img src="https://komarev.com/ghpvc/?username=zaurbbb&label=Profile%20views&color=0e75b6&style=flat" alt="zaurbbb" /> </p>
 
-- 🌱 I’m currently learning ReactJS.
-- 💻 I’m currently working on [99 names of Allah](https://github.com/zaurbbb/99-names-of-Allah)
+- 🌱 I’m currently learning MERN stack
+- 💻 I’m currently working on [Admin Panel React](https://github.com/zaurbbb/mao-admin-panel-react)
 - 📫 How to reach me: **zaurberdibekov@mail.ru**
 - 🧿 I’m a hackathon enjoyer
 
