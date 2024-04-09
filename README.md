@@ -3,9 +3,9 @@
 
 <p> <img src="https://komarev.com/ghpvc/?username=zaurbbb&label=Profile%20views&color=0e75b6&style=flat" alt="zaurbbb" /> </p>
 
-- 🌱 I’m currently learning TypeScript
-- 💻 I’m currently working on ...
-- 📫 How to reach me: **zaurberdibekov@mail.ru**
+- 🌱 I’m currently learning NextJS for high level projects
+- 💻 I’m currently working at 13LAB as a Front-End Developer
+- 📫 How to reach me: **zaurberd.work@gmail.com**
 - 🧿 I’m a hackathon enjoyer
 
 [![image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCXfA0-kwlGW_qXF-bkIVEug)
