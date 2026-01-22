@@ -4,7 +4,7 @@
 <p> <img src="https://komarev.com/ghpvc/?username=zaurbbb&label=Profile%20views&color=0e75b6&style=flat" alt="zaurbbb" /> </p>
 
 - 🌱 I’m currently learning NextJS for high-load projects
-- 💻 I’m currently working at 13LAB as a Front-End Developer
+- 💻 I’m currently working at smpldo as a React + React Native Developer
 - 📫 How to reach me: **zaurberd.work@gmail.com**
 - 🧿 I’m a hackathon enjoyer
 
